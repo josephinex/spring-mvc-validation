@@ -2,6 +2,8 @@
 bin
 build
 .settings
-.gradle
+target/
 .classpath
 .project
+.idea/
+*.iml
